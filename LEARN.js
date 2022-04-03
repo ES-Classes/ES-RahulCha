@@ -15,3 +15,15 @@ var bignumber = 22222222222222222222222222222222111111111n;
   name = "Bishnu Rawal";
   name= `Bishnu Rawal`;
 console.log(name);
+
+console.log('my name os '
+)
+
+
+//BOolean - true or false 
+var isAnimal = true;
+
+//undefined
+var year;
+
+console.log(year);
