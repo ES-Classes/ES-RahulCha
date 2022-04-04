@@ -26,3 +26,20 @@ var isAnimal = true;
 var year;
 
 console.log(year);
+
+var a = 454;
+let b =34;
+const c = 67;
+
+
+
+console.log(c);
+
+
+let x = 90;
+let y = 90;
+let x1 = x++;
+let y1 = ++y;
+
+console.log(x, y, x1, y1);
+
