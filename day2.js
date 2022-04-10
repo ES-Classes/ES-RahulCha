@@ -1,7 +1,7 @@
 // lesson 2 JS
 console.log("Hello there!");
 
-var age = 45;
+var age = 45
 age = 'bishnu';
 
 // Datatypes - 8
