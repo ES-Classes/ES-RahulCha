@@ -1,3 +1,4 @@
+//Question 2
 //first round
 let NepalA1 = [46,58,39]
 let NepalB1 = [48,41,60];
